@@ -7,7 +7,7 @@ Kue job and process manager
 
 ## Usage
 
-var jobs = require('kue-job');
+``` var jobs = require('kue-job'); ```
 
 Create a new job:
 
