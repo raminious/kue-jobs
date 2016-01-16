@@ -1,6 +1,6 @@
 {
   "name": "kue-jobs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Kue job and process manager",
   "main": "index.js",
   "repository": {
