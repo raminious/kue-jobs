@@ -1,13 +1,13 @@
 
-# kue-job
+# kue-jobs
 Kue job and process manager
 
 ## Install   
-``` npm install kue-job --save ```
+``` npm install kue-jobs --save ```
 
 ## Usage
 
-``` var jobs = require('kue-job'); ```
+``` var jobs = require('kue-jobs'); ```
 
 Create a new job:
 

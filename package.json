@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/raminious/kue-job"
+    "url": "https://github.com/raminious/kue-jobs"
   },
   "contributors": [{
     "name": "Ramin Mousavi",
