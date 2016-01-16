@@ -33,7 +33,7 @@ job.create('<job_name>',
 Process job:  
 
 ```js
-  jobs.process(SMS_VERIFY_JOB, 1, function* (job) {
+  jobs.process(<job_name>, 5, function* (job) {
 
     //do your magic
 
