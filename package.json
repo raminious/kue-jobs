@@ -1,0 +1,26 @@
+{
+  "name": "kue-jobs",
+  "version": "1.0.0",
+  "description": "Kue job and process manager",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/raminious/kue-job"
+  },
+  "contributors": [{
+    "name": "Ramin Mousavi",
+    "email": "Ramin.Mousavy@gmail.com"
+  },
+  {
+    "name": "Behrang Noruzi Niya",
+    "email": "behrangn@gmail.com"
+  }],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "kue": "^0.10.5"
+  }
+}
